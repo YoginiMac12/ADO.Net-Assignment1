@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\bin\Debug\ADONetDept.exe.config
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\bin\Debug\ADONetDept.exe
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\bin\Debug\ADONetDept.pdb
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.Form1.resources
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.Properties.Resources.resources
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.exe
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.pdb
+C:\Users\HP\source\repos\ADONetDept\ADONetDept\obj\Debug\ADONetDept.Form2.resources
